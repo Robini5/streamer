@@ -14,7 +14,7 @@ client = commands.Bot(
 @client.event
 async def on_connect():
   await client.change_presence(activity = discord.Streaming(name = 
-  "Coven Rp | Morocco", url = "https://twitch.tv/Uranusban"))
+  "BRS ON TOP", url = "https://twitch.tv/Brs"))
 
 
 
